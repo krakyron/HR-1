@@ -23,6 +23,7 @@ public class HR {
     }
     
     public int borrarRegion(int regionId) {
+        //Comentario de Alberto
         return 0;
     }
     
