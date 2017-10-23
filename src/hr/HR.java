@@ -75,6 +75,7 @@ public class HR {
     }
     
     public ArrayList<Location> leerLocations(){
+        //Modificación de Ignacio
         return null;
     }
     
