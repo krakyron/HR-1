@@ -18,6 +18,7 @@ import java.util.Date;
  */
 public class HR {
     public int insertarRegion(Region region) {
+        //Comentario de David
         return 0;
     }
     
